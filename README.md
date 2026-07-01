@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:14b8a6&height=220&section=header&text=Chanyoung%20Kim&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-stack%20%26%20Quant%20Developer&descAlignY=58&descSize=18" />
+  <img src="./assets/header.svg" alt="Chanyoung Kim - Full-stack and Quant Developer" />
 </p>
 
 <p align="center">
@@ -126,5 +126,5 @@ Engineering   Testing, automation, maintainable project structure
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,55:2563eb,100:0f172a&height=120&section=footer" />
+  <img src="./assets/footer.svg" alt="Footer wave" />
 </p>
