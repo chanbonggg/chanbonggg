@@ -1,0 +1,19 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.48" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="170" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <path d="M0 190C96 168 182 162 284 184C392 208 489 248 609 222C735 195 813 128 936 145C1037 159 1117 214 1200 197V260H0V190Z" fill="url(#wave)"/>
+  <path d="M0 218C135 196 232 214 356 226C496 240 585 224 706 200C846 172 960 178 1200 226V260H0V218Z" fill="#020617" opacity="0.28"/>
+  <text x="600" y="108" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Chanyoung Kim</text>
+  <text x="600" y="151" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" fill="#dbeafe">Full-stack &amp; Quant Developer</text>
+  <text x="600" y="186" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="600" fill="#bae6fd">Next.js | FastAPI | PostgreSQL | DuckDB</text>
+</svg>
